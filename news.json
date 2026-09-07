@@ -1,7 +1,27 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-07T12:15:56.724Z",
+  "generatedAt": "2026-09-07T18:58:39.721Z",
   "items": [
+    {
+      "id": "bankinform_ru/3359",
+      "bank": "WB банк",
+      "type": "program_rule",
+      "title": "Акция WB банка с кэшбэком 5% продлена",
+      "summary": "WB банк продлил акцию с кэшбэком 5% за покупки вне Wildberries. Лимит кэшбэка — 3000 «ягодок» в месяц. Карту WB нужно активировать до 31 октября 2026 года.",
+      "date": "2026-09-07",
+      "url": "https://t.me/bankinform_ru/3359",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Страница карты",
+          "url": "https://wb-bank.ru/card"
+        },
+        {
+          "label": "Правила акции",
+          "url": "https://wb-bank.ru/documents/pravila-akcii-keshbek-za-pokupki-prolongaciya.pdf"
+        }
+      ]
+    },
     {
       "id": "akbars_ru/3316",
       "bank": "Ак Барс Банк",
