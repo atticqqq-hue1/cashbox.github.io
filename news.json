@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-09T10:24:59.324Z",
+  "generatedAt": "2026-09-10T07:13:02.188Z",
   "items": [
+    {
+      "id": "blogbankir/18506",
+      "bank": "Сбербанк",
+      "type": "other",
+      "title": "Кэшбэк 25 и 30% в Купере от Сбербанка",
+      "summary": "Активируется акция в приложении Купер с возможностью получения кэшбэка 25 и 30% (с подпиской).",
+      "date": "2026-09-10",
+      "url": "https://t.me/blogbankir/18506",
+      "source": "Дайджест",
+      "links": [
+        {
+          "label": "https://web.kuper.ru/vpodarok-ru?sid=173036",
+          "url": "https://web.kuper.ru/vpodarok-ru?sid=173036"
+        },
+        {
+          "label": "vpodarok.ru",
+          "url": "https://vpodarok.ru/activate/universalCard"
+        },
+        {
+          "label": "Дайджест",
+          "url": "https://t.me/+5hNzlYcjnVk4OTAy"
+        }
+      ]
+    },
     {
       "id": "MoexFinuslugi/3053",
       "bank": "Финуслуги",
@@ -22,6 +46,17 @@
       "date": "2026-09-09",
       "url": "https://t.me/mkbbank/3439",
       "source": "МКБ",
+      "links": []
+    },
+    {
+      "id": "bankhlynov/1770",
+      "bank": "Банк Хлынов",
+      "type": "categories_changed",
+      "title": "Кешбэк 10% в категории «Садоводство»",
+      "summary": "Клиентам доступен кешбэк 10% в категории «Садоводство». Лимит кешбэка по акции — 500 рублей. Акция действует для владельцев карт Мир Привилегия, Виртуальная карта и Mastercard World.",
+      "date": "2026-09-09",
+      "url": "https://t.me/bankhlynov/1770",
+      "source": "Банк Хлынов",
       "links": []
     },
     {
