@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "generatedAt": "2026-09-10T07:13:02.188Z",
+  "version": 3,
+  "generatedAt": "2026-09-11T07:37:54.057Z",
   "items": [
     {
       "id": "blogbankir/18506",
@@ -24,6 +24,49 @@
           "label": "Дайджест",
           "url": "https://t.me/+5hNzlYcjnVk4OTAy"
         }
+      ],
+      "expiresAt": null
+    },
+    {
+      "id": "cash_in_tablic/7321",
+      "bank": "WB Банк",
+      "type": "deposit_rate",
+      "title": "Промо-ставка в WB Банке",
+      "summary": "У вклада 'Оптимальный' в WB Банке появилась промо-ставка для новых клиентов: 15,1% годовых, 60 дней, от 50к, выплата в конце.",
+      "date": "2026-09-10",
+      "expiresAt": "2026-09-16",
+      "url": "https://t.me/cash_in_tablic/7321",
+      "source": "Кэшбэк в Табличке",
+      "links": [
+        {
+          "label": "Условия",
+          "url": "https://wb-bank.ru/documents/deposit_tariffs_fl.pdf"
+        },
+        {
+          "label": "Условия",
+          "url": "https://wb-bank.ru/documents/deposit_tariffs_fl-s-11-09-2026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "gazprombank/4040",
+      "bank": "Газпромбанк",
+      "type": "categories_changed",
+      "title": "Кешбэк 10% за оплату интернета и ТВ",
+      "summary": "Получите кешбэк 10% за оплату домашнего интернета и ТВ в приложении или интернет-банке Газпромбанка. Сумма платежа от 500 рублей, начисляется до 500 баллов. Акция действует с 1 по 30 сентября 2026 года.",
+      "date": "2026-09-10",
+      "expiresAt": "2026-09-30",
+      "url": "https://t.me/gazprombank/4040",
+      "source": "Газпромбанк",
+      "links": [
+        {
+          "label": "️ Получить выгоду",
+          "url": "https://s.gpb.ru/m/eihizNFo0"
+        },
+        {
+          "label": "Газпромбанк в МАКС",
+          "url": "https://max.ru/Gazprombank"
+        }
       ]
     },
     {
@@ -35,7 +78,8 @@
       "date": "2026-09-09",
       "url": "https://t.me/MoexFinuslugi/3053",
       "source": "Финуслуги",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "mkbbank/3439",
@@ -46,7 +90,8 @@
       "date": "2026-09-09",
       "url": "https://t.me/mkbbank/3439",
       "source": "МКБ",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "bankhlynov/1770",
@@ -57,7 +102,8 @@
       "date": "2026-09-09",
       "url": "https://t.me/bankhlynov/1770",
       "source": "Банк Хлынов",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "blogbankir/18498",
@@ -68,7 +114,8 @@
       "date": "2026-09-08",
       "url": "https://t.me/blogbankir/18498",
       "source": "Дайджест",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "bankinform_ru/3359",
@@ -88,7 +135,8 @@
           "label": "Правила акции",
           "url": "https://wb-bank.ru/documents/pravila-akcii-keshbek-za-pokupki-prolongaciya.pdf"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "akbars_ru/3316",
@@ -99,7 +147,8 @@
       "date": "2026-09-04",
       "url": "https://t.me/akbars_ru/3316",
       "source": "Ак Барс Банк",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "sberbank/6209",
@@ -110,7 +159,8 @@
       "date": "2026-09-04",
       "url": "https://t.me/sberbank/6209",
       "source": "Сбер",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "ren_bank/2758",
@@ -121,7 +171,8 @@
       "date": "2026-09-04",
       "url": "https://t.me/ren_bank/2758",
       "source": "Ренессанс Банк",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "bankinform_ru/3356",
@@ -132,7 +183,8 @@
       "date": "2026-09-04",
       "url": "https://t.me/bankinform_ru/3356",
       "source": "БанкИнформСервис",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "otpbanknews/1825",
@@ -143,7 +195,8 @@
       "date": "2026-09-02",
       "url": "https://t.me/otpbanknews/1825",
       "source": "ОТП Банк",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "bankvtb/3767",
@@ -154,7 +207,8 @@
       "date": "2026-09-02",
       "url": "https://t.me/bankvtb/3767",
       "source": "ВТБ",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "bankhlynov/1768",
@@ -165,7 +219,8 @@
       "date": "2026-09-02",
       "url": "https://t.me/bankhlynov/1768",
       "source": "Банк Хлынов",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "mybspb/1544",
@@ -176,7 +231,8 @@
       "date": "2026-09-02",
       "url": "https://t.me/mybspb/1544",
       "source": "Банк Санкт-Петербург",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "domrf_bank/3811",
@@ -187,7 +243,8 @@
       "date": "2026-09-01",
       "url": "https://t.me/domrf_bank/3811",
       "source": "Банк ДОМ.РФ",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "moscowpan_cashback/9138",
@@ -198,7 +255,8 @@
       "date": "2026-09-01",
       "url": "https://t.me/moscowpan_cashback/9138",
       "source": "Кэшбэки, скидки и вклады",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "moscowpan_cashback/9133",
@@ -209,7 +267,8 @@
       "date": "2026-08-28",
       "url": "https://t.me/moscowpan_cashback/9133",
       "source": "Кэшбэки, скидки и вклады",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "psbbank/3655",
@@ -220,7 +279,8 @@
       "date": "2026-08-28",
       "url": "https://t.me/psbbank/3655",
       "source": "ПСБ",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "moscowpan_cashback/9132",
@@ -231,7 +291,8 @@
       "date": "2026-08-27",
       "url": "https://t.me/moscowpan_cashback/9132",
       "source": "Кэшбэки, скидки и вклады",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "moscowpan_cashback/9129",
@@ -242,7 +303,8 @@
       "date": "2026-08-26",
       "url": "https://t.me/moscowpan_cashback/9129",
       "source": "Кэшбэки, скидки и вклады",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "gazprombank/3983",
@@ -253,7 +315,8 @@
       "date": "2026-08-25",
       "url": "https://t.me/gazprombank/3983",
       "source": "Газпромбанк",
-      "links": []
+      "links": [],
+      "expiresAt": null
     },
     {
       "id": "moscowpan_cashback/9126",
@@ -264,7 +327,8 @@
       "date": "2026-08-25",
       "url": "https://t.me/moscowpan_cashback/9126",
       "source": "Кэшбэки, скидки и вклады",
-      "links": []
+      "links": [],
+      "expiresAt": null
     }
   ]
 }
