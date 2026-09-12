@@ -1,7 +1,52 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-11T07:37:54.057Z",
+  "generatedAt": "2026-09-12T07:36:10.131Z",
   "items": [
+    {
+      "id": "blogbankir/18522",
+      "bank": "МТС",
+      "type": "program_rule",
+      "title": "Изменения по подарочным категориям карты «МТС Деньги»",
+      "summary": "С 09.09.26 лимит 500 баллов на подарочные категории считается общим на весь срок акции 3 месяца. Можно выбрать категории с кэшбэком, но общий лимит — 500 баллов.",
+      "date": "2026-09-11",
+      "expiresAt": "2026-12-11",
+      "url": "https://t.me/blogbankir/18522",
+      "source": "Дайджест",
+      "links": []
+    },
+    {
+      "id": "blogbankir/18521",
+      "bank": "Локо-Банк",
+      "type": "deposit_rate",
+      "title": "Локо-Банк меняет условия по НС",
+      "summary": "Локо-Банк изменяет базовые ставки по накопительным счетам. Промо-ставка 14.5% остаётся без изменений.",
+      "date": "2026-09-11",
+      "expiresAt": "2026-09-07",
+      "url": "https://t.me/blogbankir/18521",
+      "source": "Дайджест",
+      "links": [
+        {
+          "label": "НС «Локо-Счёт Плюс»",
+          "url": "https://www.lockobank.ru/personal/vklady-i-scheta/nakopitelnyy-schet/loko-schet-na-minimalnyy-ostatok/"
+        },
+        {
+          "label": "Условия",
+          "url": "https://www.lockobank.ru/cms/prod/Tarifnyj_plan_Loko_Schet_Plyus_na_minimalnyj_ostatok_s_13_09_2026_dlya_otkrytiya_onlajn_a16cc45346.pdf"
+        },
+        {
+          "label": "НС «Локо-Счёт Плюс»",
+          "url": "https://www.lockobank.ru/personal/vklady-i-scheta/nakopitelnyy-schet/loko-schet-na-ezhednevnyy-ostatok/"
+        },
+        {
+          "label": "Условия",
+          "url": "https://www.lockobank.ru/cms/prod/Tarifnyj_plan_Loko_Schet_Plyus_na_ezhednevnyj_ostatok_s_13_09_2026_dlya_otkrytiya_onlajn_b1dbbb6a7d.pdf"
+        },
+        {
+          "label": "Условия",
+          "url": "https://www.lockobank.ru/cms/prod/Tarifnyj_plan_Loko_Schet_na_ezhednevnyj_ostatok_s_13_09_2026_dlya_otkrytiya_onlajn_8bbddddcc6.pdf"
+        }
+      ]
+    },
     {
       "id": "blogbankir/18506",
       "bank": "Сбербанк",
@@ -11,7 +56,20 @@
       "date": "2026-09-10",
       "url": "https://t.me/blogbankir/18506",
       "source": "Дайджест",
-      "links": [],
+      "links": [
+        {
+          "label": "https://web.kuper.ru/vpodarok-ru?sid=173036",
+          "url": "https://web.kuper.ru/vpodarok-ru?sid=173036"
+        },
+        {
+          "label": "vpodarok.ru",
+          "url": "https://vpodarok.ru/activate/universalCard"
+        },
+        {
+          "label": "Дайджест",
+          "url": "https://t.me/+5hNzlYcjnVk4OTAy"
+        }
+      ],
       "expiresAt": null
     },
     {
