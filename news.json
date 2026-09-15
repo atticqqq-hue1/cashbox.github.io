@@ -1,7 +1,32 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-12T07:36:10.131Z",
+  "generatedAt": "2026-09-15T09:20:43.195Z",
   "items": [
+    {
+      "id": "cash_in_tablic/7334",
+      "bank": "АльфаБанк",
+      "type": "other",
+      "title": "Акция SOKOLOV с кэшбэком 50% от АльфаБанка",
+      "summary": "Акция с кэшбэком 50%, максимум 10 тысяч за покупки от 10 тысяч в четверг 17.09.26 с 17 до 21 МСК на сайте, в приложении и в магазинах, указанных в Правилах (МСК/МО, СПБ/ЛО).",
+      "date": "2026-09-14",
+      "expiresAt": "2026-09-17",
+      "url": "https://t.me/cash_in_tablic/7334",
+      "source": "Кэшбэк в Табличке",
+      "links": [
+        {
+          "label": "SOKOLOV",
+          "url": "http://sokolov.ru/"
+        },
+        {
+          "label": "Правилах",
+          "url": "https://alfabank.servicecdn.ru/site-upload/e1/27/1007/sokolov_schast_chasy_1709.pdf"
+        },
+        {
+          "label": "+Подарок",
+          "url": "https://t.me/faktoriumis/12076"
+        }
+      ]
+    },
     {
       "id": "blogbankir/18522",
       "bank": "МТС",
