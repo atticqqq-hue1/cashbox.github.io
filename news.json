@@ -1,7 +1,70 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-16T07:26:56.391Z",
+  "generatedAt": "2026-09-17T07:06:17.346Z",
   "items": [
+    {
+      "id": "bankinform_ru/3369",
+      "bank": "Сбер",
+      "type": "deposit_rate",
+      "title": "Изменения ставок по вкладам в Сбербанке",
+      "summary": "Сбер повысил ставки по вкладу на сроки 6 и 7 месяцев до 13,5% годовых. Максимальная ставка 13,5% действует на сроки от 3 до 7 месяцев.",
+      "date": "2026-09-17",
+      "expiresAt": "2026-09-17",
+      "url": "https://t.me/bankinform_ru/3369",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Страница вклада",
+          "url": "http://www.sberbank.ru/ru/person/contributions/deposits/vklad"
+        }
+      ]
+    },
+    {
+      "id": "tbank/11118",
+      "bank": "Т-Банк",
+      "type": "categories_changed",
+      "title": "Кэшбэк дня с 100% кэшбэком",
+      "summary": "С 16 по 30 сентября в приложении Т-Банка будет появляться новое предложение с кэшбэком 100% в разделе «Кэшбэк дня».",
+      "date": "2026-09-16",
+      "expiresAt": "2026-09-30",
+      "url": "https://t.me/tbank/11118",
+      "source": "Т-Банк",
+      "links": [
+        {
+          "label": "https://b.tbao.su/cashback-day-autumn26",
+          "url": "https://b.tbao.su/cashback-day-autumn26"
+        }
+      ]
+    },
+    {
+      "id": "bankhlynov/1773",
+      "bank": "Банк Хлынов",
+      "type": "categories_changed",
+      "title": "Кешбэк 5% в категории «Аптеки»",
+      "summary": "С 19 по 20 сентября действует кешбэк 5% в категории «Аптеки». Лимит кешбэка — 500 рублей. Акция доступна для владельцев карт Мир Привилегия, Виртуальная карта и Mastercard World.",
+      "date": "2026-09-16",
+      "expiresAt": "2026-09-20",
+      "url": "https://t.me/bankhlynov/1773",
+      "source": "Банк Хлынов",
+      "links": []
+    },
+    {
+      "id": "cash_in_tablic/7342",
+      "bank": "Альфа-Банк",
+      "type": "deposit_rate",
+      "title": "Альфа-Вклад Зарплатный: 20% годовых",
+      "summary": "В Альфа-Банке появился 'Альфа-Вклад Зарплатный' с доходностью 20% годовых на 62 дня. Условия: сумма вклада от 10 тыс. до 100 тыс. рублей, выплата в конце срока. Открыть вклад можно до 13.11.2026.",
+      "date": "2026-09-16",
+      "expiresAt": "2026-11-13",
+      "url": "https://t.me/cash_in_tablic/7342",
+      "source": "Кэшбэк в Табличке",
+      "links": [
+        {
+          "label": "Условия",
+          "url": "https://alfabank.servicecdn.ru/site-upload/cf/f6/2363/deposits_alfa_14092026.pdf"
+        }
+      ]
+    },
     {
       "id": "bankinform_ru/3368",
       "bank": "ВТБ",
@@ -37,7 +100,8 @@
           "label": "Вклад «Управляемый online»",
           "url": "https://www.bspb.ru/retail/deposits/upravljaemyj?erid=2W5zFG9UdkV"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "cash_in_tablic/7334",
