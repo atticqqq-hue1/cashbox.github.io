@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-17T07:06:17.346Z",
+  "generatedAt": "2026-09-18T07:07:05.745Z",
   "items": [
     {
       "id": "bankinform_ru/3369",
@@ -16,6 +16,71 @@
         {
           "label": "Страница вклада",
           "url": "http://www.sberbank.ru/ru/person/contributions/deposits/vklad"
+        }
+      ]
+    },
+    {
+      "id": "bankinform_ru/3370",
+      "bank": "МТС-Банк",
+      "type": "deposit_rate",
+      "title": "Изменения по ставкам МТС-Банка",
+      "summary": "МТС-Банк повышает ставку по накопительному «МТС-Счёту» до 13% и по НС «Кешбокс» до 10%.",
+      "date": "2026-09-17",
+      "expiresAt": "2026-09-22",
+      "url": "https://t.me/bankinform_ru/3370",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Тариф с 22.09.26",
+          "url": "https://www.mtsbank.ru/upload/static/news/tarrifs/documents/redakciya-s-22-09-2026-kataloga-uslug-i-tarifov-dlya-klientov-fl-po-brokerskim-i-depozitarnym-uslugam.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ozon_bank_official/1009",
+      "bank": "Ozon Банк",
+      "type": "deposit_rate",
+      "title": "Счёт с ежедневным доходом от Ozon Банка",
+      "summary": "Ozon Банк предлагает счёт с ежедневным доходом по ставке 11,5% годовых с выплатами каждый день.",
+      "date": "2026-09-17",
+      "url": "https://t.me/ozon_bank_official/1009",
+      "source": "Ozon Банк",
+      "links": [
+        {
+          "label": "счёт с ежедневным доходом",
+          "url": "https://s.ozon.ru/bTrtzp4"
+        }
+      ]
+    },
+    {
+      "id": "domrf_bank/3826",
+      "bank": "Банк ДОМ.РФ",
+      "type": "deposit_rate",
+      "title": "Социальный вклад со ставкой 25% годовых",
+      "summary": "Банк ДОМ.РФ запустил социальный вклад со ставкой 25% годовых. Максимальная сумма — 50 тысяч рублей, срок — 1 год. Вклад можно оформить через Госуслуги для получателей социальной поддержки.",
+      "date": "2026-09-17",
+      "url": "https://t.me/domrf_bank/3826",
+      "source": "Банк ДОМ.РФ",
+      "links": [
+        {
+          "label": "www.gosuslugi.ru",
+          "url": "https://www.gosuslugi.ru/landing/social_bank_deposit_and_account"
+        }
+      ]
+    },
+    {
+      "id": "mybspb/1553",
+      "bank": "Банк Санкт-Петербург",
+      "type": "deposit_rate",
+      "title": "Вклад «Осень» от Банка Санкт-Петербург",
+      "summary": "Банк «Санкт-Петербург» представляет вклад «Осень» с максимальной ставкой до 13,5% годовых (при оформлении на 3 месяца). Сроки: 3 или 6 месяцев. Выплата процентов на выбор: ежемесячно или в конце срока. При открытии через мобильное приложение или интернет-банк ставка выше.",
+      "date": "2026-09-17",
+      "url": "https://t.me/mybspb/1553",
+      "source": "Банк Санкт-Петербург",
+      "links": [
+        {
+          "label": "вклад «Осень»",
+          "url": "https://www.bspb.ru/retail/deposits/osen?erid=2W5zFG7nDoX"
         }
       ]
     },
