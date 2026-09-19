@@ -1,7 +1,35 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-18T07:07:05.745Z",
+  "generatedAt": "2026-09-19T08:11:43.352Z",
   "items": [
+    {
+      "id": "tkbgroup/627",
+      "bank": "ТКБ Банк",
+      "type": "deposit_rate",
+      "title": "Повышение ставок по вкладам в ТКБ",
+      "summary": "ТКБ Банк повысил ставки по вкладам. Вклад 'Новый старт' предлагает доходность до 14% годовых при размещении от 1,5 млн рублей на 4 месяца. Вклад 'Новые деньги' - до 13,75% годовых при такой же сумме и условиях. Вклад 'Новый Хит' - до 13,7% годовых при тех же условиях.",
+      "date": "2026-09-18",
+      "url": "https://t.me/tkbgroup/627",
+      "source": "ТКБ Банк",
+      "links": [
+        {
+          "label": "«Новый старт»",
+          "url": "https://www.tkbbank.ru/private/savings/deposit/new-start/"
+        },
+        {
+          "label": "«Новые деньги»",
+          "url": "https://www.tkbbank.ru/private/savings/deposit/new-money/?ysclid=mu70tuqoqy310707021"
+        },
+        {
+          "label": "«Новый Хит»",
+          "url": "https://www.tkbbank.ru/private/savings/deposit/new-hit/?ysclid=mu70um6jag898109802"
+        },
+        {
+          "label": "на сайте ТКБ",
+          "url": "https://www.tkbbank.ru/private/savings/deposit/"
+        }
+      ]
+    },
     {
       "id": "bankinform_ru/3369",
       "bank": "Сбер",
@@ -50,7 +78,8 @@
           "label": "счёт с ежедневным доходом",
           "url": "https://s.ozon.ru/bTrtzp4"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "domrf_bank/3826",
@@ -66,7 +95,8 @@
           "label": "www.gosuslugi.ru",
           "url": "https://www.gosuslugi.ru/landing/social_bank_deposit_and_account"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "mybspb/1553",
@@ -82,7 +112,8 @@
           "label": "вклад «Осень»",
           "url": "https://www.bspb.ru/retail/deposits/osen?erid=2W5zFG7nDoX"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "tbank/11118",
