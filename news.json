@@ -1,7 +1,55 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-22T07:08:27.136Z",
+  "generatedAt": "2026-09-24T07:27:30.492Z",
   "items": [
+    {
+      "id": "bankhlynov/1775",
+      "bank": "Банк Хлынов",
+      "type": "categories_changed",
+      "title": "Кешбэк выходного дня в категории «Одежда и обувь»",
+      "summary": "С 26 по 27 сентября можно получить 5% кешбэк в категории «Одежда и обувь». Лимит — 500 рублей. Акция доступна для владельцев карт Мир Привилегия, Виртуальная карта и Mastercard World.",
+      "date": "2026-09-23",
+      "expiresAt": "2026-09-27",
+      "url": "https://t.me/bankhlynov/1775",
+      "source": "Банк Хлынов",
+      "links": []
+    },
+    {
+      "id": "ren_bank/2771",
+      "bank": "Ренессанс Банк",
+      "type": "deposit_rate",
+      "title": "Накопительный счёт «РенКопилка+» с доходностью до 14,45% годовых",
+      "summary": "Ставка по счёту «РенКопилка+» составляет до 14,45% годовых. Сумма для открытия, пополнения и снятия — без ограничений.",
+      "date": "2026-09-23",
+      "url": "https://t.me/ren_bank/2771",
+      "source": "Ренессанс Банк",
+      "links": [
+        {
+          "label": "РенКопилка",
+          "url": "https://rencredit.ru/deposits/renkopilka/?wmid=ca-kam-pro-an-deposit-v1/dl?utm_source=tg&utm_campaign=ren_bank&utm_content=post&utm_term=23092026"
+        }
+      ]
+    },
+    {
+      "id": "sovcombankofficial/1563",
+      "bank": "Совкомбанк",
+      "type": "deposit_rate",
+      "title": "До 17% годовых по вкладу «Щедрая осень»",
+      "summary": "Совкомбанк предлагает вклад «Щедрая осень» со ставкой до 17% годовых. При оформлении подписки «Халва.Десятка» или «Оптима» ставка повышается на 5% при покупках по карте «Халва».",
+      "date": "2026-09-23",
+      "url": "https://t.me/sovcombankofficial/1563",
+      "source": "Совкомбанк",
+      "links": [
+        {
+          "label": "по ссылке",
+          "url": "https://sovcombank.ru/deposits/season"
+        },
+        {
+          "label": "Совкомбанк в Макс",
+          "url": "https://max.ru/sovcombank"
+        }
+      ]
+    },
     {
       "id": "bankinform_ru/3375",
       "bank": "Альфа-Банк",
@@ -24,7 +72,8 @@
           "label": "5-6 месяцев",
           "url": "https://bankinform.ru/news/143098"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "tkbgroup/627",
