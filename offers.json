@@ -24,6 +24,30 @@
       "url": "https://my.saleads.pro/s/tr7de?erid=2Vtzqw89ppn",
       "erid": "2Vtzqw89ppn",
       "advertiser": "ПАО «МТС-Банк»"
+    },
+    {
+      "bank": "Уралсиб",
+      "title": "Кредитная карта",
+      "benefits": [
+        "До 120 дней без процентов",
+        "Бесплатное обслуживание навсегда без условий",
+        "Кешбэк до 30% за покупки в витрине партнёров"
+      ],
+      "url": "https://my.saleads.pro/s/cafp5?erid=2VtzqwWfajw",
+      "erid": "2VtzqwWfajw",
+      "advertiser": "ПАО «БАНК УРАЛСИБ»"
+    },
+    {
+      "bank": "Ozon Банк",
+      "title": "Кредитная карта без процентов",
+      "benefits": [
+        "Бесплатное открытие и обслуживание карты",
+        "До 140 дней без процентов на товары Ozon",
+        "Кешбэк до 25% рублями вне Ozon"
+      ],
+      "url": "https://my.saleads.pro/s/zhso6?erid=2VtzquhFyNL",
+      "erid": "2VtzquhFyNL",
+      "advertiser": "ООО «Озон Банк»"
     }
   ]
 }
