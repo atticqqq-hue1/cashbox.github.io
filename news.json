@@ -1,7 +1,43 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-24T07:27:30.492Z",
+  "generatedAt": "2026-09-25T07:32:06.214Z",
   "items": [
+    {
+      "id": "Primsotsbank_News/1665",
+      "bank": "Примсоцбанк",
+      "type": "categories_changed",
+      "title": "Выбор кешбэка на октябрь",
+      "summary": "Изменены категории кешбэка: супермаркеты — 1–3%, красота — 5–7%, образование — 4–10% и другие. Для клиентов с зарплатой в Примсоцбанке доступны дополнительные категории. Подробности на сайте.",
+      "date": "2026-09-25",
+      "url": "https://t.me/Primsotsbank_News/1665",
+      "source": "Примсоцбанк",
+      "links": [
+        {
+          "label": "Подробнее",
+          "url": "https://pskb.com/press-center/news/podpiska-kesh-bolshe-keshbeka-bolshe-vozmozhnostey/?utm_source=tg&utm_medium=social&utm_campaign=cashbackoctober2026"
+        },
+        {
+          "label": "по ссылке",
+          "url": "https://pskb.com/debit-cards/documents/?utm_source=tg&utm_medium=social&utm_campaign=cashbackoctober2026"
+        },
+        {
+          "label": "на сайте",
+          "url": "https://pskb.com/press-center/news/vash-oktyabr-vash-keshbek-vybirayte-kategorii-pokupok-uzhe-seychas/?utm_source=tg&utm_medium=social&utm_campaign=cashbackoctober2026"
+        }
+      ]
+    },
+    {
+      "id": "rocketbank/782",
+      "bank": "Рокетбанк",
+      "type": "other",
+      "title": "Оплата зарубежных сервисов в Рокете",
+      "summary": "Теперь в Рокетбанке можно оплачивать зарубежные сервисы, такие как Steam, PlayStation, Xbox и другие. До 7 октября действует промокод rocketbank10 с скидкой −10% на Apple ID.",
+      "date": "2026-09-24",
+      "expiresAt": "2026-10-07",
+      "url": "https://t.me/rocketbank/782",
+      "source": "Рокетбанк",
+      "links": []
+    },
     {
       "id": "bankhlynov/1775",
       "bank": "Банк Хлынов",
@@ -28,7 +64,8 @@
           "label": "РенКопилка",
           "url": "https://rencredit.ru/deposits/renkopilka/?wmid=ca-kam-pro-an-deposit-v1/dl?utm_source=tg&utm_campaign=ren_bank&utm_content=post&utm_term=23092026"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "sovcombankofficial/1563",
@@ -48,7 +85,8 @@
           "label": "Совкомбанк в Макс",
           "url": "https://max.ru/sovcombank"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "bankinform_ru/3375",
