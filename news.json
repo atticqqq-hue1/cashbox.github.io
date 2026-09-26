@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-25T07:32:06.214Z",
+  "generatedAt": "2026-09-26T07:04:23.931Z",
   "items": [
     {
       "id": "Primsotsbank_News/1665",
@@ -14,7 +14,44 @@
       "links": [
         {
           "label": "Подробнее",
+          "url": "https://pskb.com/press-center/news/podpiska-kesh-bolshe-keshbeka-bolshe-vozmozhnostey/?utm_source=tg&utm_medium=social&utm_campaign=cashbackoctober2026"
+        },
+        {
+          "label": "по ссылке",
+          "url": "https://pskb.com/debit-cards/documents/?utm_source=tg&utm_medium=social&utm_campaign=cashbackoctober2026"
+        },
+        {
+          "label": "на сайте",
           "url": "https://pskb.com/press-center/news/vash-oktyabr-vash-keshbek-vybirayte-kategorii-pokupok-uzhe-seychas/?utm_source=tg&utm_medium=social&utm_campaign=cashbackoctober2026"
+        }
+      ],
+      "expiresAt": null
+    },
+    {
+      "id": "moscowpan_cashback/9178",
+      "bank": "Альфа, ОТП, Примсоцбанк, Ozon банк",
+      "type": "categories_changed",
+      "title": "Категории на октябрь",
+      "summary": "Выбирать категории кэшбэка на следующий месяц можно в Альфе, ОТП, Примсоцбанке и Ozon банке.",
+      "date": "2026-09-25",
+      "expiresAt": "2026-10-31",
+      "url": "https://t.me/moscowpan_cashback/9178",
+      "source": "Кэшбэки, скидки и вклады",
+      "links": []
+    },
+    {
+      "id": "MoexFinuslugi/3071",
+      "bank": "Локо-Банк",
+      "type": "deposit_rate",
+      "title": "Новый вклад от Локо-Банка на Финуслугах",
+      "summary": "Появился новый вклад 'Локо-Вклад. Финуслуги Старт' на 6 месяцев со ставкой 16,5% годовых. Сумма от 100 000 до 600 000 руб.",
+      "date": "2026-09-25",
+      "url": "https://t.me/MoexFinuslugi/3071",
+      "source": "Финуслуги",
+      "links": [
+        {
+          "label": "Откройте вклад.",
+          "url": "https://finuslugi.ru/vklady/loko-vklad.-finuslugi-start-55001#amount=100000&d_period=182://finuslugi.ru/services/subscription?utm_source=max.ru&utm_medium=organic_social&utm_campaign=sv:no_service%7Cpr:deposits%7Ccp:loko-vklad.-finuslugi-start%7Cdt:25092026%7Ctg:fin_main"
         }
       ]
     },
