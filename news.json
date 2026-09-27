@@ -1,7 +1,19 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-26T07:04:23.931Z",
+  "generatedAt": "2026-09-27T07:59:34.687Z",
   "items": [
+    {
+      "id": "cash_in_tablic/7380",
+      "bank": "Ак Барс",
+      "type": "deposit_rate",
+      "title": "Изменение условий НС Ак Барса",
+      "summary": "Ак Барс снизит до 1,5% годовых надбавку на 62 дня для новых клиентов по НС Доходный. Тариф. Максимальная ставка для счетов, открытых с 30.09.26, снижена с 14% до 13% годовых.",
+      "date": "2026-09-26",
+      "expiresAt": "2026-09-30",
+      "url": "https://t.me/cash_in_tablic/7380",
+      "source": "Кэшбэк в Табличке",
+      "links": []
+    },
     {
       "id": "Primsotsbank_News/1665",
       "bank": "Примсоцбанк",
@@ -53,7 +65,8 @@
           "label": "Откройте вклад.",
           "url": "https://finuslugi.ru/vklady/loko-vklad.-finuslugi-start-55001#amount=100000&d_period=182://finuslugi.ru/services/subscription?utm_source=max.ru&utm_medium=organic_social&utm_campaign=sv:no_service%7Cpr:deposits%7Ccp:loko-vklad.-finuslugi-start%7Cdt:25092026%7Ctg:fin_main"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "rocketbank/782",
