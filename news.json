@@ -1,7 +1,24 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-27T07:59:34.687Z",
+  "generatedAt": "2026-09-29T07:47:28.021Z",
   "items": [
+    {
+      "id": "bankinform_ru/3389",
+      "bank": "ВБ Банк",
+      "type": "deposit_rate",
+      "title": "Изменения по ставкам ВБ Банк",
+      "summary": "ВБ Банк меняет ставки по вкладу «Оптимальный»: 90 дн - 14,2%, 120 дн - 14,5%, 180 дн - 14,7%, 367 дн - 13,7%. Минимальная сумма вклада - 50 тыс. рублей.",
+      "date": "2026-09-29",
+      "expiresAt": "2026-09-30",
+      "url": "https://t.me/bankinform_ru/3389",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Тариф",
+          "url": "https://wb-bank.ru/documents/deposit_tariffs_fl-s-30-09-2026.pdf"
+        }
+      ]
+    },
     {
       "id": "cash_in_tablic/7380",
       "bank": "Ак Барс",
