@@ -1,7 +1,19 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-30T07:27:56.196Z",
+  "generatedAt": "2026-10-01T07:14:31.908Z",
   "items": [
+    {
+      "id": "cash_in_tablic/7398",
+      "bank": "Яндекс Банк",
+      "type": "deposit_rate",
+      "title": "Яндекс повысил ставки по вкладам",
+      "summary": "Яндекс Банк повысил ставки по вкладам для новых клиентов: 17% на 14 дней, 15% на 91 день, 14% на 181 день. Акция действует до 31.12.26.",
+      "date": "2026-09-30",
+      "expiresAt": "2026-12-31",
+      "url": "https://t.me/cash_in_tablic/7398",
+      "source": "Кэшбэк в Табличке",
+      "links": []
+    },
     {
       "id": "bankinform_ru/3389",
       "bank": "ВБ Банк",
@@ -33,7 +45,8 @@
           "label": "Альфа-Вклада",
           "url": "https://alfa.me/7YytGo"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "cash_in_tablic/7380",
