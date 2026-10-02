@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-02T08:14:46.669Z",
+  "generatedAt": "2026-10-02T08:18:23.800Z",
   "items": [
     {
       "id": "manual/2026-10-02-03ad9587",
@@ -13,6 +13,75 @@
       "url": "",
       "source": "",
       "links": []
+    },
+    {
+      "id": "bankinform_ru/3400",
+      "bank": "Челиндбанк",
+      "type": "deposit_rate",
+      "title": "Вклад «Выгодная дата» от Челиндбанка",
+      "summary": "Челиндбанк запустил вклад «Выгодная дата» со ставкой 18% годовых, сроком 63 дня, минимальной суммой от 10 тыс. до 50 тыс. рублей.",
+      "date": "2026-10-02",
+      "url": "https://t.me/bankinform_ru/3400",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Страница вклада",
+          "url": "https://www.chelindbank.ru/private/deposits/vygodnaya-data/"
+        }
+      ]
+    },
+    {
+      "id": "domrf_bank/3833",
+      "bank": "Банк ДОМ.РФ",
+      "type": "deposit_rate",
+      "title": "Ставка 14,5% по вкладу на 3 месяца",
+      "summary": "Банк ДОМ.РФ предлагает ставку 14,5% годовых по вкладу на 3 месяца для новых клиентов. Минимальная сумма — 30 тысяч рублей, пополнение и снятие не предусмотрены, проценты выплачиваются в конце срока.",
+      "date": "2026-10-01",
+      "url": "https://t.me/domrf_bank/3833",
+      "source": "Банк ДОМ.РФ",
+      "links": [
+        {
+          "label": "Тариф",
+          "url": "https://domrfbank.ru/deposits/?utm_source=tg&utm_medium=post&utm_campaign=soc_101_domrfbank.ru_rf_post_domrf.bank/"
+        }
+      ]
+    },
+    {
+      "id": "tkbgroup/633",
+      "bank": "ТКБ Банк",
+      "type": "deposit_rate",
+      "title": "Повышаем ставки по вкладу «Новый хит»",
+      "summary": "Доходность по вкладу «Новый хит» увеличена: при размещении от 1,5 млн рублей на 3 года — до 13,55% годовых, от 50 тысяч рублей — до 13,5% годовых.",
+      "date": "2026-10-01",
+      "url": "https://t.me/tkbgroup/633",
+      "source": "ТКБ Банк",
+      "links": [
+        {
+          "label": "Новый хит",
+          "url": "https://www.tkbbank.ru/private/savings/deposit/new-hit/"
+        },
+        {
+          "label": "ТКБ Банк в MAX",
+          "url": "https://max.ru/id7709129705_biz"
+        }
+      ]
+    },
+    {
+      "id": "gazprombank/4103",
+      "bank": "Газпромбанк",
+      "type": "deposit_rate",
+      "title": "ГПБ-счёт – новый накопительный счёт Газпромбанка!",
+      "summary": "Новый накопительный счёт Газпромбанка предлагает до 14% годовых на первые 2 месяца для новых клиентов на сумму до 10 млн ₽, далее — 12,75% на минимальный остаток и 11,75% на ежедневный остаток.",
+      "date": "2026-10-01",
+      "expiresAt": "2026-12-01",
+      "url": "https://t.me/gazprombank/4103",
+      "source": "Газпромбанк",
+      "links": [
+        {
+          "label": "Тариф",
+          "url": "https://www.gazprombank.ru/accounts/nakopitelnyj-schet/?utm_source=tg&utm_medium=link&utm_campaign=accounts_nakop_schet%7Cd:perform%7Cpn:nakop_schet%7Crt:social%7Cag:gpb"
+        }
+      ]
     },
     {
       "id": "cash_in_tablic/7398",
