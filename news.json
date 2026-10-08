@@ -1,7 +1,35 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-02T08:18:23.800Z",
+  "generatedAt": "2026-10-08T19:40:25.736Z",
   "items": [
+    {
+      "id": "bankhlynov/1782",
+      "bank": "Банк Хлынов",
+      "type": "categories_changed",
+      "title": "Кешбэк 15% в зоомагазинах",
+      "summary": "В выходные 10 и 11 октября действует кешбэк 15% в категории «Зоомагазины и ветклиники». Лимит кешбэка — 500 рублей. Акция для владельцев карт Мир Привилегия, Виртуальная карта и Mastercard World.",
+      "date": "2026-10-07",
+      "expiresAt": "2026-10-11",
+      "url": "https://t.me/bankhlynov/1782",
+      "source": "Банк Хлынов",
+      "links": []
+    },
+    {
+      "id": "LockoBank_Official/189",
+      "bank": "Локо-Банк",
+      "type": "deposit_rate",
+      "title": "Новый вклад «Формула Локо»",
+      "summary": "Запущен новый вклад «Формула Локо» с доходностью до 14,5% годовых для новых клиентов. Ставка 14,5% первые 2 месяца, затем 13,75%, срок — 182 дня, сумма от 300 000 ₽ до 30 000 000 ₽.",
+      "date": "2026-10-07",
+      "url": "https://t.me/LockoBank_Official/189",
+      "source": "Локо-Банк",
+      "links": [
+        {
+          "label": "Тариф",
+          "url": "https://www.lockobank.ru/personal/vklady-i-scheta/vklad/formula-loko/"
+        }
+      ]
+    },
     {
       "id": "manual/2026-10-02-03ad9587",
       "bank": "Газпромбанк",
@@ -28,7 +56,8 @@
           "label": "Страница вклада",
           "url": "https://www.chelindbank.ru/private/deposits/vygodnaya-data/"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "domrf_bank/3833",
@@ -44,7 +73,8 @@
           "label": "Тариф",
           "url": "https://domrfbank.ru/deposits/?utm_source=tg&utm_medium=post&utm_campaign=soc_101_domrfbank.ru_rf_post_domrf.bank/"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "tkbgroup/633",
@@ -64,7 +94,8 @@
           "label": "ТКБ Банк в MAX",
           "url": "https://max.ru/id7709129705_biz"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "gazprombank/4103",
