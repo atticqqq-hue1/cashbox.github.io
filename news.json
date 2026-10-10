@@ -1,7 +1,45 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-08T19:40:25.736Z",
+  "generatedAt": "2026-10-10T14:23:05.599Z",
   "items": [
+    {
+      "id": "bankinform_ru/3408",
+      "bank": "Альфа-Банк",
+      "type": "deposit_rate",
+      "title": "Альфа-Банк: накопительный счёт с промоставкой",
+      "summary": "Альфа-Банк предлагает открыть накопительный счёт с промоставкой 14% годовых на 3 месяца. Предложение действительно до 30.10.26.",
+      "date": "2026-10-09",
+      "expiresAt": "2026-10-30",
+      "url": "https://t.me/bankinform_ru/3408",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Страница счета",
+          "url": "https://alfabank.ru/make-money/savings-account/alfa/"
+        }
+      ]
+    },
+    {
+      "id": "sovcombankofficial/1577",
+      "bank": "Совкомбанк",
+      "type": "new_card",
+      "title": "Авито – партнёр Халвы",
+      "summary": "За первую оплату Халвой на Авито с доставкой будет начислен кэшбэк 20%. Акция действует до 31 октября.",
+      "date": "2026-10-09",
+      "expiresAt": "2026-10-31",
+      "url": "https://t.me/sovcombankofficial/1577",
+      "source": "Совкомбанк",
+      "links": [
+        {
+          "label": "дарим кешбэк 20%",
+          "url": "https://halvacard.ru/actions/all/keshbek-20-zapervuyu-pokupku?utm_medium=Social&utm_source=telegram&utm_campaign=keshbek-20-zapervuyu-pokupku-avito&utm_content=smm_1026"
+        },
+        {
+          "label": "Халва в MAX",
+          "url": "https://max.ru/halvacard"
+        }
+      ]
+    },
     {
       "id": "bankhlynov/1782",
       "bank": "Банк Хлынов",
@@ -28,7 +66,8 @@
           "label": "Тариф",
           "url": "https://www.lockobank.ru/personal/vklady-i-scheta/vklad/formula-loko/"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "manual/2026-10-02-03ad9587",
