@@ -1,7 +1,24 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-20T14:30:05.967Z",
+  "generatedAt": "2026-10-21T07:03:53.168Z",
   "items": [
+    {
+      "id": "bankinform_ru/3417",
+      "bank": "ВТБ",
+      "type": "program_rule",
+      "title": "ВТБ запустил скидки на покупки на Wildberries",
+      "summary": "При оплате картой ВТБ на Wildberries можно получить скидку 3% (не более 3000 рублей) и кэшбэк 3% (не более 500 рублей).",
+      "date": "2026-10-21",
+      "expiresAt": "2026-10-31",
+      "url": "https://t.me/bankinform_ru/3417",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Новость",
+          "url": "https://www.vtb.ru/about/press/news/?id=213486"
+        }
+      ]
+    },
     {
       "id": "bankinform_ru/3414",
       "bank": "Россельхозбанк",
