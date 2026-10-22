@@ -1,7 +1,18 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-21T07:03:53.168Z",
+  "generatedAt": "2026-10-22T11:52:27.662Z",
   "items": [
+    {
+      "id": "manual/2026-10-22-3be0857f",
+      "bank": "Ozon Банк",
+      "type": "other",
+      "title": "45 дней Ozon Premium за 0₽",
+      "summary": "Подписка Ozon Premium на 45 дней за 0₽ по промокоду PREMIUMjon3n8n8ucf22dac для тех, у кого нет активной подписки.",
+      "date": "2026-10-22",
+      "url": "",
+      "source": "",
+      "links": []
+    },
     {
       "id": "bankinform_ru/3417",
       "bank": "ВТБ",
