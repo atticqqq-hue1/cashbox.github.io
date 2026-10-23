@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-22T11:53:53.238Z",
+  "generatedAt": "2026-10-23T08:32:36.496Z",
   "items": [
     {
       "id": "manual/2026-10-22-3be0857f",
@@ -25,6 +25,26 @@
       "url": "",
       "source": "",
       "links": []
+    },
+    {
+      "id": "sovcombankofficial/1591",
+      "bank": "Совкомбанк",
+      "type": "new_card",
+      "title": "Кэшбэк 3% на всё",
+      "summary": "Совкомбанк предлагает дебетовую карту с кэшбэком 3% на все покупки.",
+      "date": "2026-10-22",
+      "url": "https://t.me/sovcombankofficial/1591",
+      "source": "Совкомбанк",
+      "links": [
+        {
+          "label": "с 3% кешбэком на всё",
+          "url": "https://sovcombank.ru/cards/debit/s-keshbekom-na-vse"
+        },
+        {
+          "label": "Совкомбанк в Макс",
+          "url": "https://max.ru/sovcombank"
+        }
+      ]
     },
     {
       "id": "bankinform_ru/3417",
