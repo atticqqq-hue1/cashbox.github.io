@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-27T07:51:30.035Z",
+  "generatedAt": "2026-10-27T07:52:12.030Z",
   "items": [
     {
       "id": "manual/2026-10-27-3578a5a1",
@@ -11,7 +11,25 @@
       "date": "2026-10-27",
       "url": "",
       "source": "",
-      "links": []
+      "links": [],
+      "expiresAt": null
+    },
+    {
+      "id": "bankinform_ru/3425",
+      "bank": "WB Банк",
+      "type": "categories_changed",
+      "title": "WB Банк запустил выбор категорий кэшбэка",
+      "summary": "В разделе «Кошелёк» приложения WB Банка можно выбрать 4 категории повышенного кэшбэка на ноябрь. Лимит — 3000 баллов в месяц. Баллы тратятся на маркетплейсе WB.",
+      "date": "2026-10-26",
+      "expiresAt": "2026-10-31",
+      "url": "https://t.me/bankinform_ru/3425",
+      "source": "БанкИнформСервис",
+      "links": [
+        {
+          "label": "Правила ПЛ",
+          "url": "https://wb-bank.ru/documents/pravila-programmy-loyalnosti.pdf"
+        }
+      ]
     },
     {
       "id": "manual/2026-10-22-3be0857f",
