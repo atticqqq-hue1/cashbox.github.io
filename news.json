@@ -3,6 +3,25 @@
   "generatedAt": "2026-10-30T07:04:49.915Z",
   "items": [
     {
+      "id": "finap/2026-11-05-yandex-balldezh",
+      "bank": "Яндекс Банк",
+      "type": "action",
+      "title": "Яндекс Банк: 30% кэшбэка баллами в аптеках с 5 по 8 ноября",
+      "summary": "Баллдёж недели: с 5 по 8 ноября Яндекс Банк даёт 30% кэшбэка баллами Плюса в аптеках «Доктор Столетов», «Озерки», «СуперАптека» и «Самсон-Фарма». Максимум — 400 баллов. Покупка — самовывозом из аптеки или на кассе, оплата — QR-кодом Яндекс Пэй из приложения аптеки; предложение нужно активировать, без активации кэшбэк не начисляется.",
+      "date": "2026-11-05",
+      "expiresAt": "2026-11-08",
+      "url": "",
+      "source": "",
+      "links": [
+        {
+          "label": "Активировать «Баллдёж недели»",
+          "url": "https://sp.yandex.ru/acceptit?acceptorId=balldezh"
+        }
+      ],
+      "image": "https://atticqqq-hue1.github.io/cashbox.github.io/news/images/yandex-balldezh-2026-11-05.png",
+      "imageRatio": 1.39
+    },
+    {
       "id": "finap/2026-11-05-psb-ns",
       "bank": "ПСБ",
       "type": "deposit_rate",
@@ -70,7 +89,8 @@
           "url": "https://digital.sber.ru/prime/digital_cpa"
         }
       ],
-      "image": "https://atticqqq-hue1.github.io/cashbox.github.io/news/images/sberprime-2026-11-05.jpg"
+      "image": "https://atticqqq-hue1.github.io/cashbox.github.io/news/images/sberprime-2026-11-05.jpg",
+      "imageRatio": 1.4
     },
     {
       "id": "bankinform_ru/3435",
