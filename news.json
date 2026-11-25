@@ -1,7 +1,25 @@
 {
   "version": 3,
-  "generatedAt": "2026-10-30T07:04:49.915Z",
+  "generatedAt": "2026-11-25T09:09:16.187Z",
   "items": [
+    {
+      "id": "manual/2026-11-18-e58c2734",
+      "bank": "Альфа-Банк",
+      "type": "other",
+      "title": "Кэшбэк 100% во Вкусно и Точка",
+      "summary": "Каждую среду, четверг и пятницу с 18.11 по 25.12.26 кэшбэк 100% по картам Альфа-Банка во Вкусно и Точка. Его можно получить 2 раза в день - за 1 продукт из Акции утра и за 1 - из Акции дня.",
+      "summaryRich": "![иконка](https://atticqqq-hue1.github.io/cashbox.github.io/news/images/icon-mwvwav3n-8o34q2.png) Каждую среду, четверг и пятницу с 18.11 по 25.12.26  кэшбэк 100% по картам Альфа-Банка во Вкусно и Точка. Его можно получить 2 раза в день - за 1 продукт  из Акции утра и за 1 - из Акции дня.",
+      "date": "2026-11-18",
+      "expiresAt": "2026-12-25",
+      "url": "",
+      "source": "",
+      "links": [
+        {
+          "label": "FAQ",
+          "url": "https://alfachannels.servicecdn.ru/docs/000VK_VIT_11_12_26.pdf"
+        }
+      ]
+    },
     {
       "id": "finap/2026-11-05-yandex-balldezh",
       "bank": "Яндекс Банк",
@@ -39,7 +57,8 @@
           "label": "Накопительный счёт «Импульс»",
           "url": "https://www.psbank.ru/personal/savingsaccount/impuls"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "finap/2026-11-05-gazprombank-ns",
@@ -55,7 +74,8 @@
           "label": "Страница накопительных счетов",
           "url": "https://www.gazprombank.ru/accounts/nakopitelnyj-schet/"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "finap/2026-11-05-wb-club",
@@ -71,7 +91,8 @@
           "label": "Страница подписки WB Club",
           "url": "https://www.wildberries.ru/subscription"
         }
-      ]
+      ],
+      "expiresAt": null
     },
     {
       "id": "finap/2026-11-05-sberprime",
@@ -1158,42 +1179,6 @@
       "summary": "По Солидной карте с 24.08.2026 новый список МСС-исключений для кэшбэка. Банк Долин с 1 сентября вводит плату за обслуживание ведения счёта по картам - 99₽/мес.",
       "date": "2026-08-27",
       "url": "https://t.me/moscowpan_cashback/9132",
-      "source": "Кэшбэки, скидки и вклады",
-      "links": [],
-      "expiresAt": null
-    },
-    {
-      "id": "moscowpan_cashback/9129",
-      "bank": "ВТБ",
-      "type": "categories_changed",
-      "title": "ВТБ: выбор категорий на сентябрь",
-      "summary": "Можно выбирать категории на сентябрь в ВТБ. Раздел переименовали в 'Выгода'.",
-      "date": "2026-08-26",
-      "url": "https://t.me/moscowpan_cashback/9129",
-      "source": "Кэшбэки, скидки и вклады",
-      "links": [],
-      "expiresAt": null
-    },
-    {
-      "id": "gazprombank/3983",
-      "bank": "Газпромбанк",
-      "type": "categories_changed",
-      "title": "«Спортивные товары» добавлены в категории кешбэка",
-      "summary": "В постоянной подборке категорий кешбэка добавлены «Спортивные товары». Теперь доступны: спортивные товары, транспорт и такси, кафе и рестораны, ЖКХ, АЗС.",
-      "date": "2026-08-25",
-      "url": "https://t.me/gazprombank/3983",
-      "source": "Газпромбанк",
-      "links": [],
-      "expiresAt": null
-    },
-    {
-      "id": "moscowpan_cashback/9126",
-      "bank": "Альфа, ОТП, Примсоцбанк",
-      "type": "categories_changed",
-      "title": "Выбор категорий на сентябрь",
-      "summary": "Определяем категории кэшбэка на сентябрь в Альфа-Банке, ОТП Банке и Примсоцбанке.",
-      "date": "2026-08-25",
-      "url": "https://t.me/moscowpan_cashback/9126",
       "source": "Кэшбэки, скидки и вклады",
       "links": [],
       "expiresAt": null
