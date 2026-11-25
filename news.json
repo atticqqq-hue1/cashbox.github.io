@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-11-25T10:28:21.270Z",
+  "generatedAt": "2026-11-25T10:47:02.562Z",
   "items": [
     {
       "id": "manual/2026-11-25-919d4367",
@@ -16,7 +16,20 @@
           "label": "Тариф",
           "url": "https://www.gazprombank.ru/upload/files/iblock/bf0/sssmhe2b5abr9r2vx8pahh7y5g8sakg8/Vypiska-NS-s-30.11.2026.pdf"
         }
-      ]
+      ],
+      "expiresAt": null
+    },
+    {
+      "id": "manual/2026-11-25-9c6c8ebd",
+      "bank": "Ozon Банк",
+      "type": "categories_changed",
+      "title": "Ozon Банке доступен выбор категорий на декабрь",
+      "summary": "С подпиской Ozon Premium доступно 5 категорий, вместо 4 + возможность сменить категории раз в месяц. Подписку можно постоянно бесплатно [активировать](https://www.ozon.ru/premium/gift) на 45 дней по промокодам: PREMIUMjn1cn93cnc3 или PREMIUMnio23ncr8y2nu03vhn. Перед активацией [отключаем](https://www.ozon.ru/my/premium/) действующую",
+      "date": "2026-11-25",
+      "expiresAt": "2026-12-15",
+      "url": "",
+      "source": "",
+      "links": []
     },
     {
       "id": "manual/2026-11-18-e58c2734",
